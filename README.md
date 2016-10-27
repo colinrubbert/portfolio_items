@@ -1,9 +1,11 @@
 # Portfolio
 ### A selection of projects to showcase my work.
 
+---
 #### PC Mechanics
 Site: [PC Mechanics](http://pcmneenah.com/)
-Stack:
+
+The Stack:
 
 - Squarespace
 - Custom JavaScript
@@ -23,10 +25,12 @@ Rebuild the website with mobile first in mind. Add pricing to reduce inbound cal
 - 14% increased revenue solely from web traffic
 - Decreased phone calls asking about pricing and increased phone calls scheduling services
 
+---
 #### Firehose Lightning Talks
 Site: [Lightning Talks Web App](http://firehoselightning.herokuapp.com/)
 Code: [GitHub Repository](https://github.com/FirehoseCommunity/LightningTalkTopics)
-Stack:
+
+The Stack:
 
 - HTML/CSS/Sass
 - Ruby/Rails/rspec
@@ -48,7 +52,7 @@ The intent of the Lightning Talks was to get remote students involved in "remote
 - 10 Open Source Contributors
 - Regular interest in for new students to showcase their interests
 
-
+---
 #### Colin Rubbert (My Personal Site)
 Site: [Personal Site](http://colinrubbert.com/)
 Code: [GitHub Repository](https://github.com/colinrubbert/personal-site)
@@ -76,6 +80,7 @@ Gain control over actual code and migrateable platform. Squarespace caused a lot
 - Increased control over assets
 - Knowledge of a new framework and CMS
 
+---
 #### Tradewinds Interactive (My Business Site)
 Site: [Tradewinds Interactive](https://tradewindsinteractive.com/)
 Code: [GitHub Repository](https://github.com/colinrubbert/tradewinds_theme)
@@ -103,4 +108,5 @@ Created a website where people can sign up for more information, price out their
 - Gained business leads
 - Added newsletter subscribers for future information and outreach
 
+---
 
