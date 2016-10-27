@@ -1,4 +1,4 @@
-# Portfolio
+## Portfolio
 #### A selection of projects to showcase my work.
 
 ---
