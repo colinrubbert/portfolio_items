@@ -1,8 +1,8 @@
 # Portfolio
-### A selection of projects to showcase my work.
+#### A selection of projects to showcase my work.
 
 ---
-#### PC Mechanics
+### PC Mechanics
 Site: [PC Mechanics](http://pcmneenah.com/)
 
 The Stack:
@@ -26,8 +26,9 @@ Rebuild the website with mobile first in mind. Add pricing to reduce inbound cal
 - Decreased phone calls asking about pricing and increased phone calls scheduling services
 
 ---
-#### Firehose Lightning Talks
+### Firehose Lightning Talks
 Site: [Lightning Talks Web App](http://firehoselightning.herokuapp.com/)
+
 Code: [GitHub Repository](https://github.com/FirehoseCommunity/LightningTalkTopics)
 
 The Stack:
@@ -53,8 +54,9 @@ The intent of the Lightning Talks was to get remote students involved in "remote
 - Regular interest in for new students to showcase their interests
 
 ---
-#### Colin Rubbert (My Personal Site)
+### Colin Rubbert (My Personal Site)
 Site: [Personal Site](http://colinrubbert.com/)
+
 Code: [GitHub Repository](https://github.com/colinrubbert/personal-site)
 
 The Stack:
@@ -81,8 +83,9 @@ Gain control over actual code and migrateable platform. Squarespace caused a lot
 - Knowledge of a new framework and CMS
 
 ---
-#### Tradewinds Interactive (My Business Site)
+### Tradewinds Interactive (My Business Site)
 Site: [Tradewinds Interactive](https://tradewindsinteractive.com/)
+
 Code: [GitHub Repository](https://github.com/colinrubbert/tradewinds_theme)
 
 The Stack:
