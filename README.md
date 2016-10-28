@@ -86,7 +86,7 @@ Gain control over actual code and migrateable platform. Squarespace caused a lot
 ### Tradewinds Interactive (My Business Site)
 Site: [Tradewinds Interactive](https://tradewindsinteractive.com/)
 
-Code: [GitHub Repository](https://github.com/colinrubbert/tradewinds_theme)
+Code: [GitHub Repository](https://github.com/colinrubbert/tradewinds_theme/tree/master/wp-content/themes/tradewinds_interactive)
 
 The Stack:
 
