@@ -45,7 +45,7 @@ _42 IT Consulting   |   Winneconne, WI    |   2014-Present_
 
 __Lead Systems Administrator & Business Accounts Manager__
 
-_PC Mechanics   |   |Neenah, WI   |   2011-Present_
+_PC Mechanics   |   Neenah, WI   |   2011-Present_
 
 - Windows Server Administration (Server 2003, 2008, 2008R2, SBS 2003, SBS 2008, & Server 2012)
 - Maintain numerous environments with mixed OS including Windows XP, Vista, 7, 8, 10, Mac OSX, and Linux
