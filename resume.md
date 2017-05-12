@@ -5,11 +5,11 @@ __534 Birch St. Winneconne, WI 54986 | colinrubbert@gmail.com | 920-379-1918__
 
 
 
-##Objective
+## Objective
 
 Obtain a front end development position within an organization that focuses on development best practices, investment in employee development, and emphasis on employee growth and happiness. 
 
-##Education
+## Education
 
 __The Firehose Project   |   Completion:	August 2015__
 
@@ -24,7 +24,7 @@ __Fox Valley Technical College - Appleton, WI   |   Graduated: 	December 2013__
 _Associates in Applied Science Degree - Network Systems Administration_
 
 
-##Extracurricular
+## Extracurricular
 
 __Firehose Community Lightning Talks__
 
@@ -32,7 +32,7 @@ __Firehose Community Lightning Talks__
 - The focus of the lightning talks is to mimic real world coding meetups to get students comfortable exploring, discussing, and teaching others about technologies that get them excited and/or will bring value to peers and future students. 
 
 
-##Work Experience
+## Work Experience
 
 __Founder__
 
