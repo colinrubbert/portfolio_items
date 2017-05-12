@@ -2,6 +2,29 @@
 #### A selection of projects to showcase my work.
 
 ---
+### Kirtida Ringwala M.D.
+Site: [Kirtida Ringwala M.D.](http://drkirtidaringwala.com/)
+
+The Stack:
+
+- HTML/CSS/Sass
+- Ruby/Jekyll
+- JavaScript
+- Cloud Cannon Jekyll CMS Hosting
+
+##### The Problem:
+
+The local doctor's office no longer had a website leaving them with a drop in new clients. 
+
+##### The Solution:
+
+Build an easy and informative website that was quick and mobile responsive.
+
+##### The Results:
+
+The site was just recently launched in the last week, the results are a bit too early to determine. The goal, however, is to attract new clients and increase revenue of the business from the new client leads.
+
+---
 ### PC Mechanics
 Site: [PC Mechanics](http://pcmneenah.com/)
 
